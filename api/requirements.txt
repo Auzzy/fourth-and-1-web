@@ -1,0 +1,7 @@
+git+https://github.com/Auzzy/fourth-and-1-core.git@main
+
+Flask == 1.1.4
+Flask-WTF == 0.15.1
+Flask-CORS == 3.0.10
+Flask-SQLAlchemy == 2.5.1
+Flask-SocketIO == 5.1.1
